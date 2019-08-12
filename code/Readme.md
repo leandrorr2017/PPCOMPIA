@@ -1,18 +1,18 @@
 --------------------------------------------------
 ### Arquivos Fontes - Python 
-Data de AtualizaÁ„o: 12/08/2018
+Data de Atualiza√ß√£o: 12/08/2018
 --------------------------------------------------
 
-## ExecuÁ„o
+## Execu√ß√£o
 
-FaÁa o Download e instale a distribuiÁ„o de ciÍncia de dados [Anaconda](https://www.anaconda.com/distribution/) contendo todo o ambiente de desenvolvimento necess·rio para execuÁao deste trabalho, incluindo os interpretadores Python e Jupiter Notebook.
+Fa√ßa o Download e instale a distribui√ß√£o de ci√™ncia de dados [Anaconda](https://www.anaconda.com/distribution/) contendo todo o ambiente de desenvolvimento necess√°rio para execu√ßao deste trabalho, incluindo os interpretadores Python e Jupiter Notebook.
 
-Resgate os cÛdigos fontes necess·rios para validaÁ„o do trabalho:
+Resgate os c√≥digos fontes necess√°rios para valida√ß√£o do trabalho:
 
-| Source | Description |
+| Fontes | Descri√ß√£o |
 | ------ | ------ |
 | Clogging.ipynb | code to solve the a marathon race problem |
 | /data | datasets utilizados no trabalho  |
 | /data/formated_Output-LC2_20191.txt | base de corridas - Janeiro/2019  |
 | /data/formated_Output-LC2_20192.txt | base de corridas - Fevereiro/2019  |
-| /data/Intervalos_candidatos.txt | Intervalos de An·lise com obstruÁıes identificadas pela operaÁ„o  |
+| /data/Intervalos_candidatos.txt | Intervalos de An√°lise com obstru√ß√µes identificadas pela opera√ß√£o  |
