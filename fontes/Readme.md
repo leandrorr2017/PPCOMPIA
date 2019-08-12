@@ -11,7 +11,7 @@ Resgate os códigos fontes necessários para validação do trabalho:
 
 | Fontes | Descrição |
 | ------ | ------ |
-| Clogging.ipynb | code to solve the a marathon race problem |
+| Clogging.ipynb | Notebook para análise de obstrução |
 | /data | datasets utilizados no trabalho  |
 | /data/formated_Output-LC2_20191.txt | base de corridas - Janeiro/2019  |
 | /data/formated_Output-LC2_20192.txt | base de corridas - Fevereiro/2019  |
