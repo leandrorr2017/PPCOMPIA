@@ -1,9 +1,17 @@
-Trabalho Final de Inteligência Artificial
+Trabalho Final de InteligÃªncia Artificial
 ====================================================
 
-Disciplina do Mestrado em Computação Aplicada - IFES (PPCOMP)
+Disciplina do Mestrado em ComputaÃ§Ã£o Aplicada - IFES (PPCOMP)
 
-## Detecção de anomalias em um sinal temporal de processo industrial utilizando técnica de agrupamento (*Clustering*) 
+## DetecÃ§Ã£o de anomalias em um sinal temporal de processo industrial utilizando tÃ©cnica de agrupamento (*Clustering*) 
 
-A proposta deste trabalho é de avaliar uma série temporal univariada proveniente de um sinal gerado por um sensor de um processo industrial de produção de aço, buscando identificar situações anômalas no comportamento deste sinal.  
-A abordagem a ser utilizada para identificação será o uso de uma técnica de aprendizado de máquina não supervisionada, neste caso agrupamento (*clustering*). Para tal entende-se que as seguintes etapas serão necessárias no trabalho:
+A proposta deste trabalho Ã© de avaliar uma sÃ©rie temporal univariada proveniente de um sinal gerado por um sensor de um processo industrial de produÃ§Ã£o de aÃ§o, buscando identificar situaÃ§Ãµes anÃ´malas no comportamento deste sinal.  
+A abordagem a ser utilizada para identificaÃ§Ã£o serÃ¡ o uso de uma tÃ©cnica de aprendizado de mÃ¡quina nÃ£o supervisionada, neste caso agrupamento (*clustering*). Para tal entende-se que as seguintes etapas serÃ£o necessÃ¡rias no trabalho:
+
+1. SeleÃ§Ã£o de uma amostragem de dados. PropÃµe-se 1 mÃªs de dados do processo industrial do distribuidor em uma mÃ¡quina de lingotamento contÃ­nuo. 
+2. DefiniÃ§Ã£o do sinal para anÃ¡lise das anomalias. Sinais candidatos
+a.	NÃ­vel de aÃ§o no molde
+b.	Porcentagem de abertura da vÃ¡lvula gaveta 
+3. Saneamento dos dados (Tratativa de missing data, erros no sensoriamento, outros).
+4. Desenvolvimento de algoritmo de janela deslizante para varredura do sinal e extraÃ§Ã£o de caracterÃ­sticas. CaracterÃ­sticas candidatas:
+
