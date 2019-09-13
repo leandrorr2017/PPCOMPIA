@@ -1,4 +1,4 @@
---------------------------------------------------
+﻿--------------------------------------------------
 ### Arquivos Fontes - Python 
 Data de Atualização: 12/08/2018
 --------------------------------------------------
@@ -11,8 +11,7 @@ Resgate os códigos fontes necessários para validação do trabalho:
 
 | Fontes | Descrição |
 | ------ | ------ |
-| Clogging.ipynb | Notebook para análise de obstrução |
+| *.ipynb | Notebooks para análise de obstrução |
 | /data | datasets utilizados no trabalho  |
 | /data/formated_Output-LC2_20191.txt | base de corridas - Janeiro/2019  |
 | /data/formated_Output-LC2_20192.txt | base de corridas - Fevereiro/2019  |
-| /data/Intervalos_candidatos.txt | Intervalos de Análise com obstruções identificadas pela operação  |
